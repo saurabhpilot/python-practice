@@ -1,3 +1,7 @@
+'''
+   CHECK if the string is palindrome 
+   eg = "civic" , "Level"
+'''
 #!/usr/bin/python
 
 from argparse import ArgumentParser
